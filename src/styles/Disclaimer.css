@@ -1,0 +1,13 @@
+.disclaimer-banner {
+    background-color: #ffcc00; /* Couleur de fond */
+    color: #333; /* Couleur du texte */
+    padding: 5px; /* Espacement intérieur */
+    text-align: center; /* Alignement du texte */
+    font-size: 14px; /* Taille de police */
+    border-bottom: 1px solid #aaa; /* Bordure en bas */
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
+}
